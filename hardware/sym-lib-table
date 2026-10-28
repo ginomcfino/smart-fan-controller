@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LTC1840CGNTR")(type "KiCad")(uri "${KIPRJMOD}/LTC1840CGNTR.kicad_sym")(options "")(descr "Symbol recovered from the project schematic"))
+)
