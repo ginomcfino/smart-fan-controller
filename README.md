@@ -4,7 +4,7 @@ A dual-fan controller design with temperature inputs, tachometer conditioning, a
 
 ![PCB front copper and silkscreen layout](docs/images/pcb-front.svg)
 
-**Status:** CAD design study; not yet fabricated or bench-tested.
+**Status:** CAD design study
 
 This is my manually developed circuit and PCB design. Component libraries, manufacturer models, and other supplied assets retain their original attribution.
 
@@ -13,4 +13,4 @@ This is my manually developed circuit and PCB design. Component libraries, manuf
 - [Visual guide](docs/visuals.md): labeled board and schematic views.
 - [Check notes](docs/checks/README.md): packaging checks and current automated-check results.
 
-Open `hardware/Smart_Cabinet_Fan.kicad_pro` with KiCad 9 and its standard symbol, footprint, and 3D model libraries.
+Open `hardware/Smart_Cabinet_Fan.kicad_pro` with KiCad 10 and its standard symbol, footprint, and 3D model libraries.
