@@ -1,6 +1,6 @@
 # Smart Cabinet Fan Controller - Visual Guide
 
-These are CAD exports, not photographs of assembled hardware. The views were generated from the source files in this folder using KiCad 9.0.9.
+These are CAD exports, not photographs of assembled hardware. The views were generated from the source files in this folder using KiCad 10.0.1.
 
 ![3D CAD render](images/pcb-3d-render.png)
 
